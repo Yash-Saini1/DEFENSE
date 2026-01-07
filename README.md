@@ -1,6 +1,6 @@
 # 🚀 Full Stack Web Development Course
 
-**This repository contains all course notes, codes & projects** 2
+**This repository contains all course notes, codes & projects**
 
 ### 📌 Frontend (React)
 
